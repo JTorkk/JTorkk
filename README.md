@@ -1,5 +1,8 @@
 ![Header](./github-header-image.png)
 
+[![linkedin](https://img.shields.io/badge/linkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/juho-torkkeli/)
+[![pub.dev](https://img.shields.io/badge/pub.dev-0175C2?style=flat&logo=Dart&logoColor=white)](https://pub.dev/publishers/mankeli.co/packages)
+
 <!--
 **JTorkk/JTorkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
