@@ -5,7 +5,7 @@
 
 ### Whoami 😄
 
-Enthusiast about Information Technology with a strong focus on mobile development. Currently working full-time at Saarni Likeit Oy while studying Information Technology at the University of Turku. Co-founded Mankeli Solutions Oy, a dynamic software company specializing in mobile and web applications. Passionate about mobile development, with considerable experience using Flutter and a keen interest in native development. Solid background in ICT from Kerttuli Upper Secondary School.
+Enthusiast about Information Technology with a strong focus on mobile development. Currently working full-time at Saarni Likeit Oy while studying Information Technology at the University of Turku. Co-founded Mankeli Solutions Oy, a dynamic software company specializing in mobile and web applications. My background in ICT began at Kerttuli Upper Secondary School, providing a solid foundation in technology. Passionate about mobile development, with considerable experience using Flutter and a keen interest in native development.
 
 <!--
 **JTorkk/JTorkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
